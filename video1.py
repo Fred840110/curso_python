@@ -1,0 +1,1 @@
+print("El nombre de la persona es -> "+input("Ingresa tu nobre ") + "\nY el apellido de la persona es ->" + input("Ingresa el apellido") )
